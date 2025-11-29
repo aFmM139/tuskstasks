@@ -1,0 +1,1 @@
+export const API_URL = 'https://3000-firebase-tuskstasks-1764011303834.cluster-ocv3ypmyqfbqysslgd7zlhmxek.cloudworkstations.dev/tasks';
