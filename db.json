@@ -1,13 +1,53 @@
 {
-    "posts": [
-      { "id": "1", "title": "a title", "views": 100 },
-      { "id": "2", "title": "another title", "views": 200 }
-    ],
-    "comments": [
-      { "id": "1", "text": "a comment about post 1", "postId": "1" },
-      { "id": "2", "text": "another comment about post 1", "postId": "1" }
-    ],
-    "profile": {
-      "name": "typicode"
+  "tasks": [
+    {
+      "id": "7881",
+      "title": "Hola gordo",
+      "description": "Hola",
+      "completed": true,
+      "createdAt": "2025-11-26T17:20:22.979Z",
+      "updatedAt": "2025-11-26T17:20:29.997Z"
+    },
+    {
+      "id": "6628",
+      "title": "Ehhh",
+      "description": "Cvbi",
+      "completed": true,
+      "createdAt": "2025-11-29T03:01:30.921Z"
+    },
+    {
+      "id": "9707",
+      "title": "H",
+      "description": "C",
+      "completed": false,
+      "createdAt": "2025-11-29T04:06:23.269Z"
     }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "a title",
+      "views": 100
+    },
+    {
+      "id": "2",
+      "title": "another title",
+      "views": 200
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
+}
