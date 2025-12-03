@@ -6,8 +6,7 @@ PERO....
 
 ¿Qué es "TAT"?
 
-![KjhGIF]
-(https://github.com/user-attachments/assets/0aa8f362-ecb5-4d74-b490-43803eef9d5f)
+![KjhGIF](https://github.com/user-attachments/assets/0aa8f362-ecb5-4d74-b490-43803eef9d5f)
 
 Pues TAT es una aplicación desarrollada especialmente para el manejo de tareas en cualquir ambito, ya sea educativo como personal,
 este solo sirve para darte a ti una lista en digital de tareas que tu pongas 😘.
